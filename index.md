@@ -2,15 +2,10 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+A brief analysis of possible correlation between several geographic variables and life expectancy at birth, as collected by the [U.S. Small-area Life Expectancy Estimates Project - USALEEP](https://www.cdc.gov/nchs/nvss/usaleep/usaleep.html) Specifically looking at the census tracts within seven New Jersey counties: Atlantic, Burlington, Camden, Cape May, Cumberland, Gloucester and Salem counties. From herein mentioned as [South Jersey](https://www.state.nj.us/transportation/about/directory/southregion.shtm)   
 
-[Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
+# Datasets
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
