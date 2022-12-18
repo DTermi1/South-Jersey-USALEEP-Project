@@ -2,7 +2,7 @@
 layout: default
 ---
 
-A brief analysis of possible correlation between several geographic variables and life expectancy at birth, as collected by the [U.S. Small-area Life Expectancy Estimates Project - USALEEP](https://www.cdc.gov/nchs/nvss/usaleep/usaleep.html) Specifically looking at the census tracts within seven New Jersey counties: Atlantic, Burlington, Camden, Cape May, Cumberland, Gloucester and Salem counties. Though it is something of a hot topic in the state, this group of counties will herein be known as[South Jersey](https://www.state.nj.us/transportation/about/directory/southregion.shtm).   
+A brief analysis of possible correlation between several geographic variables and life expectancy at birth, as collected by the [U.S. Small-area Life Expectancy Estimates Project - USALEEP](https://www.cdc.gov/nchs/nvss/usaleep/usaleep.html) Specifically looking at the census tracts within seven New Jersey counties: Atlantic, Burlington, Camden, Cape May, Cumberland, Gloucester and Salem counties. Though it is something of a hot topic in the state, this group of counties will herein be known as [South Jersey](https://www.state.nj.us/transportation/about/directory/southregion.shtm).   
 
 
 # Datasets
