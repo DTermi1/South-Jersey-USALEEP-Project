@@ -34,7 +34,7 @@ Retrieved from https://njogis-newjersey.opendata.arcgis.com/datasets/newjersey::
 
 # Static Maps
 ## Population with Less Than A High School Education and Life Expectancy
-<img src="Education.png" width="1400" height="750">
+<img src="Education.png" width="1400" height="500">
 Gray census tracts represent those where there was no life expectancy estimate. All tracts had Education data.
 
 | Dep. Variable        | R-squared          | Adj. R-squared |
@@ -42,14 +42,14 @@ Gray census tracts represent those where there was no life expectancy estimate. 
 | 	Estimated Life Expectancy at Birth          | 0.650 | 0.650  |
 
 ## Non-White Population and Life Expectancy
-<img src="Non-White.png" width="1400" height="750">
+<img src="Non-White.png" width="1400" height="500">
 
 | Dep. Variable        | R-squared          | Adj. R-squared |
 |:-------------|:------------------|:------|
 | 	Estimated Life Expectancy at Birth          | 0.557 | 0.556  |
 
 ## Median Household Income and Life Expectancy
-<img src="Income.png" width="1400" height="750">
+<img src="Income.png" width="1400" height="500">
 
 | Dep. Variable        | R-squared          | Adj. R-squared |
 |:-------------|:------------------|:------|
@@ -70,12 +70,6 @@ Gray census tracts represent those where there was no life expectancy estimate. 
 | 	Estimated Life Expectancy at Birth          | -0.582036	 | -0.453426	  | 0.608925|
 
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
 
 ### There's a horizontal rule below this.
 
