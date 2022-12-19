@@ -32,17 +32,8 @@ Retrieved from https://njogis-newjersey.opendata.arcgis.com/datasets/newjersey::
 
 
 
-#### Header 4
+# Static Maps
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
 
 ###### Header 6
 
