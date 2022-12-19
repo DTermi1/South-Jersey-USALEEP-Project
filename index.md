@@ -34,7 +34,7 @@ Retrieved from https://njogis-newjersey.opendata.arcgis.com/datasets/newjersey::
 
 # Static Maps
 ## Population with Less Than A High School Education and Life Expectancy
-<img src="Education.png" width="1800" height="500">
+<img src="Education.png" width="2000" height="900">
 Gray census tracts represent those where there was no life expectancy estimate. All tracts had Education data.
 
 | Dep. Variable        | R-squared          | Adj. R-squared |
@@ -42,14 +42,14 @@ Gray census tracts represent those where there was no life expectancy estimate. 
 | 	Estimated Life Expectancy at Birth          | 0.650 | 0.650  |
 
 ## Non-White Population and Life Expectancy
-<img src="Non-White.png" width="1800" height="500">
+<img src="Non-White.png" width="2000" height="900">
 
 | Dep. Variable        | R-squared          | Adj. R-squared |
 |:-------------|:------------------|:------|
 | 	Estimated Life Expectancy at Birth          | 0.557 | 0.556  |
 
 ## Median Household Income and Life Expectancy
-<img src="Income.png" width="1800" height="500">
+<img src="Income.png" width="2000" height="900">
 
 | Dep. Variable        | R-squared          | Adj. R-squared |
 |:-------------|:------------------|:------|
