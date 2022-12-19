@@ -65,13 +65,15 @@ Gray census tracts represent those where there was no life expectancy estimate. 
 |:-------------|:------------------|:------|
 | 	Estimated Life Expectancy at Birth          | 0.969 | 0.969  |
 
+These three factors can explain nearly all variation in life expectancy. 
+
 ## Correlation
 
 |         | Percent of Population with Less Than A High School Education         | Percent of Population that is Non-White| Median Household Income In the Past 12 Months |
 |:-------------|:------------------|:------|:------|
 | 	Estimated Life Expectancy at Birth          | -0.582036	 | -0.453426	  | 0.608925|
 
-
+There is negative correlation between Percent of Population with Less Than A High School Education  and Percent of Population that is Non-White and Life Expectancy. Household income has a positive correlation. Tracts with high minority and uneducated populations generally have worse life expectancy estimates.  
 
 ## Hospitals By Number of Beds
 <img src="Hospitals.png" width="500" height="600">
@@ -80,4 +82,5 @@ Map of Hospitals clipped by South Jersey Census Tracts. Marker size is proportio
  # Webmap
 Hospital Layer, 5 Mile Buffer Around Hospitals and Census Tracts without Life Expectancy estimates can be toggled in the layer controller. The hospital layer shows markers proportional to number of hospital beds, a tooltip shows the actual number of beds. Clicking on a hospital marker gives its name and address as a popup. The non-toggleable life expectancy choropleth shows tract name and life expectancy estimate as a tooltip and Median Household Income in the Last 12 Months, Percent Non-White Population, and Percent of Population with Less Than A High School Education as a popup. The basemap can also be swapped to show a satellite view.   
 
+<iframe src="Final_Webmap.html" height="500" width="500"></iframe>
 
