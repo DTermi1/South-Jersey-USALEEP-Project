@@ -74,7 +74,7 @@ Gray census tracts represent those where there was no life expectancy estimate. 
 
 
 ## Hospitals By Number of Beds
-<img src="Hospitals.png" width="2500" height="700">
+<img src="Hospitals.png" width="1250" height="350">
 
 * * *
 
