@@ -82,5 +82,5 @@ Map of Hospitals clipped by South Jersey Census Tracts. Marker size is proportio
  # Webmap
 Hospital Layer, 5 Mile Buffer Around Hospitals and Census Tracts without Life Expectancy estimates can be toggled in the layer controller. The hospital layer shows markers proportional to number of hospital beds, a tooltip shows the actual number of beds. Clicking on a hospital marker gives its name and address as a popup. The non-toggleable life expectancy choropleth shows tract name and life expectancy estimate as a tooltip and Median Household Income in the Last 12 Months, Percent Non-White Population, and Percent of Population with Less Than A High School Education as a popup. The basemap can also be swapped to show a satellite view.   
 
-<iframe src="Final_Webmap.html" height="500" width="500"></iframe>
+<iframe src="Final_Webmap.html" height="1000" width="1000"></iframe>
 
