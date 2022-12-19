@@ -43,6 +43,7 @@ Gray census tracts represent those where there was no life expectancy estimate. 
 
 ## Non-White Population and Life Expectancy
 <img src="Non-White.png" width="2500" height="700">
+Gray census tracts represent those where there was no life expectancy estimate. All tracts had race data.
 
 | Dep. Variable        | R-squared          | Adj. R-squared |
 |:-------------|:------------------|:------|
@@ -50,6 +51,7 @@ Gray census tracts represent those where there was no life expectancy estimate. 
 
 ## Median Household Income and Life Expectancy
 <img src="Income.png" width="2500" height="700">
+Gray census tracts represent those where there was no life expectancy estimate. All tracts had income data. Tracts with CVs greater than 40 are hatched, however are quite small. 
 
 | Dep. Variable        | R-squared          | Adj. R-squared |
 |:-------------|:------------------|:------|
