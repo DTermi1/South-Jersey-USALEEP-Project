@@ -27,22 +27,10 @@ Imported into Google Colab as a list, converted into a dataframe and table joine
 ### B16010_002: Less than High School Graduate
 Imported into Google Colab as a list with B02001_1:Total Population. Both converted into a dataframe. B16010_002 was divided by total population for each census tract and converted to percentage. CV was calculated in the same fashion as Group B02001: Race. This data was also table joined to the USALEEP/NHGIS file. No tract had a CV over 40%.    
 
-### Header 3
+## Hospitals in NJ
+Retrieved from https://njogis-newjersey.opendata.arcgis.com/datasets/newjersey::hospitals-in-nj/about, and published by the New Jersey Office of GIS. Was last updated on May 14, 2020, definitely not ideal as changes in bed number, the main attribute I used, could have changed a good deal since the pandemic. Hospitals were clipped using the filtered pre-USALEEP join NHGIS census tract file. I also did a 5-mile buffer around South Jersey hospitals to see if there was any correlation between proximity to hospital and life expectancy. 
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
 #### Header 4
 
