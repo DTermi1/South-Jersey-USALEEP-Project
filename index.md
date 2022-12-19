@@ -73,7 +73,8 @@ Gray census tracts represent those where there was no life expectancy estimate. 
 
 
 
-### There's a horizontal rule below this.
+## Hospitals By Number of Beds
+<img src="Hospitals.png" width="2500" height="700">
 
 * * *
 
