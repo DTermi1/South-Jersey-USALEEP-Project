@@ -33,9 +33,40 @@ Retrieved from https://njogis-newjersey.opendata.arcgis.com/datasets/newjersey::
 
 
 # Static Maps
+## Population with Less Than A High School Education and Life Expectancy
+![Education Map](/Education.png)
+Gray census tracts represent those where there was no life expectancy estimate. All tracts had Education data.
 
+| Dep. Variable        | R-squared          | Adj. R-squared |
+|:-------------|:------------------|:------|
+| 	Estimated Life Expectancy at Birth          | 0.650 | 0.650  |
 
-###### Header 6
+## Non-White Population and Life Expectancy
+![Non-White Map](/Non-White.png)
+
+| Dep. Variable        | R-squared          | Adj. R-squared |
+|:-------------|:------------------|:------|
+| 	Estimated Life Expectancy at Birth          | 0.557 | 0.556  |
+
+## Median Household Income and Life Expectancy
+![Income Map](/Income.png)
+
+| Dep. Variable        | R-squared          | Adj. R-squared |
+|:-------------|:------------------|:------|
+| 	Estimated Life Expectancy at Birth          | 0.885 | 0.884  |
+
+# Further Regression and Correlation
+
+## Linear Regression Using All Three Variables
+| Dep. Variable        | R-squared          | Adj. R-squared |
+|:-------------|:------------------|:------|
+| 	Estimated Life Expectancy at Birth          | 0.969 | 0.969  |
+
+## Correlation
+|         | Percent of Population with Less Than A High School Education         | Percent of Population that is Non-White| Median Household Income In the Past 12 Months |
+|:-------------|:------------------|:------|:------|
+| 	Estimated Life Expectancy at Birth          | -0.582036	 | -0.453426	  | 0.608925|
+
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
