@@ -74,66 +74,10 @@ Gray census tracts represent those where there was no life expectancy estimate. 
 
 
 ## Hospitals By Number of Beds
-<img src="Hospitals.png" width="1250" height="350">
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+<img src="Hospitals.png" width="500" height="600">
+Map of Hospitals clipped by South Jersey Census Tracts. Marker size is proportional to number of beds in each hospital. 
+ 
+ # Webmap
+Hospital Layer, 5 Mile Buffer Around Hospitals and Census Tracts without Life Expectancy estimates can be toggled in the layer controller. The hospital layer shows markers proportional to number of hospital beds, a tooltip shows the actual number of beds. Clicking on a hospital marker gives its name and address as a popup. The non-toggleable life expectancy choropleth shows tract name and life expectancy estimate as a tooltip and Median Household Income in the Last 12 Months, Percent Non-White Population, and Percent of Population with Less Than A High School Education as a popup. The basemap can also be swapped to show a satellite view.   
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
