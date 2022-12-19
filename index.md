@@ -34,7 +34,7 @@ Retrieved from https://njogis-newjersey.opendata.arcgis.com/datasets/newjersey::
 
 # Static Maps
 ## Population with Less Than A High School Education and Life Expectancy
-![Education Map](/Education.png)
+<img src="Education.png" width=300% height=300%>
 Gray census tracts represent those where there was no life expectancy estimate. All tracts had Education data.
 
 | Dep. Variable        | R-squared          | Adj. R-squared |
